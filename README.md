@@ -1,6 +1,5 @@
 # Wordle
 
-Create a wordle game helper, that returns a list of all possible answers when you give it a string with "green" letters in correct place and "yellow"
-letters in a seperate string
+Recursive wordle game helper
 
-Focuses on a recursive approach
+Returns a list of all possible answers when you give it a string with "green" (correct in place) letters and "yellow" letters (correct out of place)
